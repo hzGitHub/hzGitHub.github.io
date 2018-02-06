@@ -1,290 +1,410 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <url>
-    <loc>https://hzGitHub.github.io/home/about/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/publication/cellular/</loc>
+      <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://hzGitHub.github.io/home/publications_selected/</loc>
-    <lastmod>2016-04-20T00:00:00-04:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/publication/coupled2017/</loc>
+      <lastmod>2017-06-12T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://hzGitHub.github.io/home/projects/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/publication/surgicalendoscopy/</loc>
+      <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://hzGitHub.github.io/home/publications/</loc>
-    <lastmod>2016-04-20T00:00:00-04:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/post/sages1/</loc>
+      <lastmod>2017-03-22T12:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://hzGitHub.github.io/home/talks/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/publication/sages1/</loc>
+      <lastmod>2017-03-22T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://hzGitHub.github.io/home/posts/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/post/</loc>
+      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://hzGitHub.github.io/home/teaching/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/publication/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://hzGitHub.github.io/home/tags/</loc>
-    <lastmod>2017-09-20T00:00:00-04:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/talk/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://hzGitHub.github.io/home/contact/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/post/acs-aei/</loc>
+      <lastmod>2016-09-16T12:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://hzGitHub.github.io/publication/cellular/</loc>
-    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/post/kitware/</loc>
+      <lastmod>2016-05-23T12:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://hzGitHub.github.io/publication/coupled2017/</loc>
-    <lastmod>2017-06-12T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/project/current/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://hzGitHub.github.io/publication/surgicalendoscopy/</loc>
-    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/project/coupled/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://hzGitHub.github.io/post/sages1/</loc>
-    <lastmod>2017-03-22T12:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/project/fire/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://hzGitHub.github.io/publication/sages1/</loc>
-    <lastmod>2017-03-22T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/project/tissue/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://hzGitHub.github.io/post/</loc>
-    <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/project/characterization/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://hzGitHub.github.io/publication/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/project/cutting/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://hzGitHub.github.io/talk/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/post/sages2/</loc>
+      <lastmod>2016-03-16T12:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://hzGitHub.github.io/post/acs-aei/</loc>
-    <lastmod>2016-09-16T12:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/publication/sages2/</loc>
+      <lastmod>2016-03-16T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://hzGitHub.github.io/post/kitware/</loc>
-    <lastmod>2016-05-23T12:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/publication/usnccm1/</loc>
+      <lastmod>2015-07-26T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://hzGitHub.github.io/project/current/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/publication/usnccm2/</loc>
+      <lastmod>2015-07-26T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://hzGitHub.github.io/project/coupled/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/publication/dual/</loc>
+      <lastmod>2013-12-19T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://hzGitHub.github.io/project/fire/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/post/ideas/</loc>
+      <lastmod>2013-11-23T12:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://hzGitHub.github.io/project/tissue/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/publication/control/</loc>
+      <lastmod>2011-08-01T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://hzGitHub.github.io/project/characterization/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/publication_types/1/</loc>
+      <lastmod>2017-06-12T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://hzGitHub.github.io/project/cutting/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/publication_types/2/</loc>
+      <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://hzGitHub.github.io/post/sages2/</loc>
-    <lastmod>2016-03-16T12:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/tags/boston/</loc>
+      <lastmod>2016-09-16T12:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://hzGitHub.github.io/publication/sages2/</loc>
-    <lastmod>2016-03-16T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/tags/carl-j.-shapiro-simulation--skills-center-beth-israel-deaconess-medical-center/</loc>
+      <lastmod>2016-09-16T12:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://hzGitHub.github.io/publication/usnccm1/</loc>
-    <lastmod>2015-07-26T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/tags/carrboro/</loc>
+      <lastmod>2016-05-23T12:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://hzGitHub.github.io/publication/usnccm2/</loc>
-    <lastmod>2015-07-26T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://hzGitHub.github.io/publication/dual/</loc>
-    <lastmod>2013-12-19T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/tags/characterization/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://hzGitHub.github.io/post/ideas/</loc>
-    <lastmod>2013-11-23T12:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/tags/coupled/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://hzGitHub.github.io/publication/control/</loc>
-    <lastmod>2011-08-01T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/tags/current/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://hzGitHub.github.io/publication_types/1/</loc>
-    <lastmod>2017-06-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/tags/cutting/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://hzGitHub.github.io/publication_types/2/</loc>
-    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/tags/fire/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://hzGitHub.github.io/tags/boston/</loc>
-    <lastmod>2016-09-16T12:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/tags/houston/</loc>
+      <lastmod>2017-03-22T12:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://hzGitHub.github.io/tags/carl-j.-shapiro-simulation--skills-center-beth-israel-deaconess-medical-center/</loc>
-    <lastmod>2016-09-16T12:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/tags/massachusetts/</loc>
+      <lastmod>2016-09-16T12:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://hzGitHub.github.io/tags/carrboro/</loc>
-    <lastmod>2016-05-23T12:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/tags/north-carolina/</loc>
+      <lastmod>2016-05-23T12:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://hzGitHub.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/project/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://hzGitHub.github.io/tags/characterization/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/publication_types/</loc>
+      <lastmod>2017-06-12T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://hzGitHub.github.io/tags/coupled/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/tags/</loc>
+      <lastmod>2016-09-16T12:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://hzGitHub.github.io/tags/current/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/tags/texas/</loc>
+      <lastmod>2017-03-22T12:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://hzGitHub.github.io/tags/cutting/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/tags/tissue/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://hzGitHub.github.io/tags/fire/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hzGitHub.github.io/home/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hzGitHub.github.io/tags/houston/</loc>
-    <lastmod>2017-03-22T12:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hzGitHub.github.io/tags/massachusetts/</loc>
-    <lastmod>2016-09-16T12:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hzGitHub.github.io/tags/north-carolina/</loc>
-    <lastmod>2016-05-23T12:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hzGitHub.github.io/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hzGitHub.github.io/publication_types/</loc>
-    <lastmod>2017-06-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hzGitHub.github.io/tags/</loc>
-    <lastmod>2016-09-16T12:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hzGitHub.github.io/tags/texas/</loc>
-    <lastmod>2017-03-22T12:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hzGitHub.github.io/tags/tissue/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hzGitHub.github.io/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/</loc>
+      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
 </urlset>
