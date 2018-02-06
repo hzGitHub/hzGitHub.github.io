@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Zhongqing Han</title>
+    <link>https://hzGitHub.github.io/publication/</link>
+    <description>Recent content in Publications on Zhongqing Han</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A multiphysics model for radiofrequency activation of soft tissues</title>
+      <link>https://hzGitHub.github.io/publication/cellular/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://hzGitHub.github.io/publication/cellular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A fast Krylove subspace-based method for multi-physics modeling of electrosurgical cutting of soft tissue</title>
+      <link>https://hzGitHub.github.io/publication/coupled2017/</link>
+      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://hzGitHub.github.io/publication/coupled2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FUSE certification enhances performance on an immersive virtual reality based simulator for dispersive electrode placement</title>
+      <link>https://hzGitHub.github.io/publication/surgicalendoscopy/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://hzGitHub.github.io/publication/surgicalendoscopy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The virtual electrosurgical skill trainer (VEST)-Face validation of a dispersive electrode placement module</title>
+      <link>https://hzGitHub.github.io/publication/sages1/</link>
+      <pubDate>Wed, 22 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://hzGitHub.github.io/publication/sages1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The virtual electrosurgical skill trainer (VEST)-Principles of current pathway</title>
+      <link>https://hzGitHub.github.io/publication/sages2/</link>
+      <pubDate>Wed, 16 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://hzGitHub.github.io/publication/sages2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A local level set-based approach for modeling electrosurgical tissue cutting</title>
+      <link>https://hzGitHub.github.io/publication/usnccm1/</link>
+      <pubDate>Sun, 26 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://hzGitHub.github.io/publication/usnccm1/</guid>
+      <description>&lt;p&gt;To be continued.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GPU-based parallel algorithms for simulation of Electrosurgery procedures in real-time</title>
+      <link>https://hzGitHub.github.io/publication/usnccm2/</link>
+      <pubDate>Sun, 26 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://hzGitHub.github.io/publication/usnccm2/</guid>
+      <description>&lt;p&gt;To be continued.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A physics-based algorithm for real-time simulation of electrosurgery procedures in minimally invasive surgery</title>
+      <link>https://hzGitHub.github.io/publication/dual/</link>
+      <pubDate>Thu, 19 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://hzGitHub.github.io/publication/dual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active vibration suppression based on intelligent control for a long-range ultra-precise positioning system</title>
+      <link>https://hzGitHub.github.io/publication/control/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://hzGitHub.github.io/publication/control/</guid>
+      <description>&lt;p&gt;To be continued.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

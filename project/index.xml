@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Zhongqing Han</title>
+    <link>https://hzGitHub.github.io/project/</link>
+    <description>Recent content in Projects on Zhongqing Han</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CURRENT PATHWAY</title>
+      <link>https://hzGitHub.github.io/project/current/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://hzGitHub.github.io/project/current/</guid>
+      <description>
+
+&lt;p&gt;Currents traveling within the human body between the electrodes do not travel as in a wire; instead, as the whole body is a conductor, the currents try to spread as much as possible with the constraints that it has to start and end at the electrodes. This simulator shows the path of the current when using an active electrode and a dispersive electrode. The Path of the current is shown as the active electrode is moved within the body and reacts accordingly when a new dispersive electrode is selected from the multiple options presented. The learning objectives of this simulator is to demonstrate:&lt;/p&gt;
+
+&lt;h5 id=&#34;understanding-of-principles-of-current-diversion-hahahugoshortcode-1hbhb&#34;&gt;Understanding of principles of current diversion 
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/larra0McRho&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/h5&gt;
+
+&lt;h5 id=&#34;effects-of-current-diversion-and-how-to-avoid-risks-of-current-diversion-hahahugoshortcode-2hbhb&#34;&gt;Effects of current diversion and how to avoid risks of current diversion 
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/h_y4GS5ENcI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/h5&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Efficient algorithms for Multi-physics multi-scale modeling</title>
+      <link>https://hzGitHub.github.io/project/coupled/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://hzGitHub.github.io/project/coupled/</guid>
+      <description>
+
+&lt;p&gt;Developing an interactive simulation environment for electrosurgery that includes coupled electro-thermo-mechanical multiphysics modeling, continuum level, micromechanical level multilevel modeling and topological change can be challenging. Current best practices for the efficient solution of such problem are based almost exclusively on multigrid methods and preconditioned Krylov subspace methods. Design of efficient application specific monolithic multiphysics multigrid solvers or preconditioners is challenging. Therefore, our aim in this project is to develop efficient finite element solver and block preconditioning technique that can effectively deflate the spectrum of the system matrix leading to exponential convergence of the Arnoldi iterations for the multiphysics, multilevel modeling of electrosurgery without compromising physical fidelity and stability. Research efforts are focused on:&lt;/p&gt;
+
+&lt;h5 id=&#34;deflation-based-block-preconditioner-for-efficient-solution-of-electrosurgical-simulation&#34;&gt;Deflation based block preconditioner for efficient solution of electrosurgical simulation&lt;/h5&gt;
+
+&lt;h5 id=&#34;reduced-order-modeling-of-large-scale-electrosurgical-simulation&#34;&gt;Reduced order modeling of large scale electrosurgical simulation&lt;/h5&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://hzGitHub.github.io/img/mps.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Contour plots for 50 W power setting with a fixed active electrode&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>OR fire</title>
+      <link>https://hzGitHub.github.io/project/fire/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://hzGitHub.github.io/project/fire/</guid>
+      <description>&lt;p&gt;This simulator presents a virtual operating room fire scenario and comprises two sections. In the first one, the user is guided in identifying the elements of the operating room that for part of the fire triangle (heat, fuel and oxidizing agent). The second part the user is guided by the simulation to contain a fire, following the established procedures for this emergency situation.
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/FyHlv_Lv1PI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PHYSICS-BASED TISSUE EFFECTS</title>
+      <link>https://hzGitHub.github.io/project/tissue/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://hzGitHub.github.io/project/tissue/</guid>
+      <description>&lt;p&gt;This simulator presents the differences between cutting and coagulating waveforms provided by the electrosurgical generator at different power levels. The simulator enables the user to see the effects on the tissue in real time as they follow the directions that highlight proper techniques and undesired effects.
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/rXHPSQ7n-u0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Soft Tissue Thermomechanics</title>
+      <link>https://hzGitHub.github.io/project/characterization/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://hzGitHub.github.io/project/characterization/</guid>
+      <description>
+
+&lt;h4 id=&#34;performing-ex-vivo-tissue-experiments-to-determine-fracture-toughness-of-liver-tissue&#34;&gt;Performing ex vivo tissue experiments to determine fracture toughness of liver tissue&lt;/h4&gt;
+
+&lt;h4 id=&#34;developing-an-inverse-optimization-model-to-characterize-the-mechanics-of-electrosurgical-cutting&#34;&gt;Developing an inverse optimization model to characterize the mechanics of electrosurgical cutting&lt;/h4&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Virtual Cutting</title>
+      <link>https://hzGitHub.github.io/project/cutting/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://hzGitHub.github.io/project/cutting/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/aREgQ7bM4DM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/AaNeZyTZnck&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/oSUMPSvn0O4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
