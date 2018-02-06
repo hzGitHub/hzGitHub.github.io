@@ -1,14 +1,98 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zhongqing Han on Zhongqing Han</title>
+    <title>Zhongqing Han</title>
     <link>https://hzGitHub.github.io/</link>
-    <description>Recent content in Zhongqing Han on Zhongqing Han</description>
+    <description>Recent content on Zhongqing Han</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://hzGitHub.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://hzGitHub.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://hzGitHub.github.io/home/about/</guid>
+      <description>Biography I am a Ph.D. candidate at Center for Modeling, Simulation, &amp;amp; Imaging in Medicine, Mechanical, Aerospace, and Nuclear Engineering Department, Rensselaer Polytechnic Institute, and currently seeking a full-time position as a software engineer or simulation research engineer in robotic-assisted surgery or surgical training and planning field. My research is focusing on developing advanced modeling, simulation technology for virtual surgery, and transitioning those technologies to surgical training and planning in clinical practice.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://hzGitHub.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://hzGitHub.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://hzGitHub.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://hzGitHub.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://hzGitHub.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://hzGitHub.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://hzGitHub.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://hzGitHub.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experiences</title>
+      <link>https://hzGitHub.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://hzGitHub.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://hzGitHub.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://hzGitHub.github.io/home/teaching/</guid>
+      <description>This is an example of using the custom widget to create your own homepage section.
+To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://hzGitHub.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://hzGitHub.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://hzGitHub.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://hzGitHub.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A multiphysics model for radiofrequency activation of soft tissues</title>
@@ -43,16 +127,9 @@
       <pubDate>Wed, 22 Mar 2017 12:00:00 +0000</pubDate>
       
       <guid>https://hzGitHub.github.io/post/sages1/</guid>
-      <description>&lt;p&gt;Demonstrate understanding of principles of current diversion using Virtual Reality (HTC VIVE).&lt;/p&gt;
-
-&lt;p&gt;Key features:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Define direct coupling and explain how it can occur&lt;/li&gt;
-&lt;li&gt;Define capacitive coupling and explain how it can occur&lt;/li&gt;
-&lt;li&gt;Define insulation failure and explain how it can occur&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Demonstrate understanding of principles of current diversion using Virtual Reality (HTC VIVE).
+Key features:
+ Define direct coupling and explain how it can occur Define capacitive coupling and explain how it can occur Define insulation failure and explain how it can occur  </description>
     </item>
     
     <item>
@@ -70,10 +147,8 @@
       <pubDate>Fri, 16 Sep 2016 12:00:00 +0000</pubDate>
       
       <guid>https://hzGitHub.github.io/post/acs-aei/</guid>
-      <description>&lt;p&gt;Demonstrate all the modules of VEST.&lt;/p&gt;
-
-&lt;p&gt;Key features: To be continued.&lt;/p&gt;
-</description>
+      <description>Demonstrate all the modules of VEST.
+Key features: To be continued.</description>
     </item>
     
     <item>
@@ -82,10 +157,8 @@
       <pubDate>Mon, 23 May 2016 12:00:00 +0000</pubDate>
       
       <guid>https://hzGitHub.github.io/post/kitware/</guid>
-      <description>&lt;p&gt;To be continued.&lt;/p&gt;
-
-&lt;p&gt;Key features: To be continued.&lt;/p&gt;
-</description>
+      <description>To be continued.
+Key features: To be continued.</description>
     </item>
     
     <item>
@@ -94,22 +167,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://hzGitHub.github.io/project/current/</guid>
-      <description>
-
-&lt;p&gt;Currents traveling within the human body between the electrodes do not travel as in a wire; instead, as the whole body is a conductor, the currents try to spread as much as possible with the constraints that it has to start and end at the electrodes. This simulator shows the path of the current when using an active electrode and a dispersive electrode. The Path of the current is shown as the active electrode is moved within the body and reacts accordingly when a new dispersive electrode is selected from the multiple options presented. The learning objectives of this simulator is to demonstrate:&lt;/p&gt;
-
-&lt;h5 id=&#34;understanding-of-principles-of-current-diversion-hahahugoshortcode-1hbhb&#34;&gt;Understanding of principles of current diversion 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/larra0McRho&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-&lt;/h5&gt;
-
-&lt;h5 id=&#34;effects-of-current-diversion-and-how-to-avoid-risks-of-current-diversion-hahahugoshortcode-2hbhb&#34;&gt;Effects of current diversion and how to avoid risks of current diversion 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/h_y4GS5ENcI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-&lt;/h5&gt;
-</description>
+      <description>Currents traveling within the human body between the electrodes do not travel as in a wire; instead, as the whole body is a conductor, the currents try to spread as much as possible with the constraints that it has to start and end at the electrodes. This simulator shows the path of the current when using an active electrode and a dispersive electrode. The Path of the current is shown as the active electrode is moved within the body and reacts accordingly when a new dispersive electrode is selected from the multiple options presented.</description>
     </item>
     
     <item>
@@ -118,28 +176,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://hzGitHub.github.io/project/coupled/</guid>
-      <description>
-
-&lt;p&gt;Developing an interactive simulation environment for electrosurgery that includes coupled electro-thermo-mechanical multiphysics modeling, continuum level, micromechanical level multilevel modeling and topological change can be challenging. Current best practices for the efficient solution of such problem are based almost exclusively on multigrid methods and preconditioned Krylov subspace methods. Design of efficient application specific monolithic multiphysics multigrid solvers or preconditioners is challenging. Therefore, our aim in this project is to develop efficient finite element solver and block preconditioning technique that can effectively deflate the spectrum of the system matrix leading to exponential convergence of the Arnoldi iterations for the multiphysics, multilevel modeling of electrosurgery without compromising physical fidelity and stability. Research efforts are focused on:&lt;/p&gt;
-
-&lt;h5 id=&#34;deflation-based-block-preconditioner-for-efficient-solution-of-electrosurgical-simulation&#34;&gt;Deflation based block preconditioner for efficient solution of electrosurgical simulation&lt;/h5&gt;
-
-&lt;h5 id=&#34;reduced-order-modeling-of-large-scale-electrosurgical-simulation&#34;&gt;Reduced order modeling of large scale electrosurgical simulation&lt;/h5&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;https://hzGitHub.github.io/img/mps.jpg&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Contour plots for 50 W power setting with a fixed active electrode&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-</description>
+      <description>Developing an interactive simulation environment for electrosurgery that includes coupled electro-thermo-mechanical multiphysics modeling, continuum level, micromechanical level multilevel modeling and topological change can be challenging. Current best practices for the efficient solution of such problem are based almost exclusively on multigrid methods and preconditioned Krylov subspace methods. Design of efficient application specific monolithic multiphysics multigrid solvers or preconditioners is challenging. Therefore, our aim in this project is to develop efficient finite element solver and block preconditioning technique that can effectively deflate the spectrum of the system matrix leading to exponential convergence of the Arnoldi iterations for the multiphysics, multilevel modeling of electrosurgery without compromising physical fidelity and stability.</description>
     </item>
     
     <item>
@@ -148,13 +185,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://hzGitHub.github.io/project/fire/</guid>
-      <description>&lt;p&gt;This simulator presents a virtual operating room fire scenario and comprises two sections. In the first one, the user is guided in identifying the elements of the operating room that for part of the fire triangle (heat, fuel and oxidizing agent). The second part the user is guided by the simulation to contain a fire, following the established procedures for this emergency situation.
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/FyHlv_Lv1PI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-&lt;/p&gt;
-</description>
+      <description>This simulator presents a virtual operating room fire scenario and comprises two sections. In the first one, the user is guided in identifying the elements of the operating room that for part of the fire triangle (heat, fuel and oxidizing agent). The second part the user is guided by the simulation to contain a fire, following the established procedures for this emergency situation.   </description>
     </item>
     
     <item>
@@ -163,13 +194,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://hzGitHub.github.io/project/tissue/</guid>
-      <description>&lt;p&gt;This simulator presents the differences between cutting and coagulating waveforms provided by the electrosurgical generator at different power levels. The simulator enables the user to see the effects on the tissue in real time as they follow the directions that highlight proper techniques and undesired effects.
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/rXHPSQ7n-u0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-&lt;/p&gt;
-</description>
+      <description>This simulator presents the differences between cutting and coagulating waveforms provided by the electrosurgical generator at different power levels. The simulator enables the user to see the effects on the tissue in real time as they follow the directions that highlight proper techniques and undesired effects.   </description>
     </item>
     
     <item>
@@ -178,12 +203,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://hzGitHub.github.io/project/characterization/</guid>
-      <description>
-
-&lt;h4 id=&#34;performing-ex-vivo-tissue-experiments-to-determine-fracture-toughness-of-liver-tissue&#34;&gt;Performing ex vivo tissue experiments to determine fracture toughness of liver tissue&lt;/h4&gt;
-
-&lt;h4 id=&#34;developing-an-inverse-optimization-model-to-characterize-the-mechanics-of-electrosurgical-cutting&#34;&gt;Developing an inverse optimization model to characterize the mechanics of electrosurgical cutting&lt;/h4&gt;
-</description>
+      <description> Performing ex vivo tissue experiments to determine fracture toughness of liver tissue Developing an inverse optimization model to characterize the mechanics of electrosurgical cutting </description>
     </item>
     
     <item>
@@ -192,24 +212,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://hzGitHub.github.io/project/cutting/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/aREgQ7bM4DM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/AaNeZyTZnck&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/oSUMPSvn0O4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-&lt;/p&gt;
-</description>
+      <description>         </description>
     </item>
     
     <item>
@@ -218,10 +221,8 @@
       <pubDate>Wed, 16 Mar 2016 12:00:00 +0000</pubDate>
       
       <guid>https://hzGitHub.github.io/post/sages2/</guid>
-      <description>&lt;p&gt;Demonstrate Module 4 of VEST.&lt;/p&gt;
-
-&lt;p&gt;Key features: To be continued.&lt;/p&gt;
-</description>
+      <description>Demonstrate Module 4 of VEST.
+Key features: To be continued.</description>
     </item>
     
     <item>
@@ -231,6 +232,52 @@
       
       <guid>https://hzGitHub.github.io/publication/sages2/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>A local level set-based approach for modeling electrosurgical tissue cutting</title>
+      <link>https://hzGitHub.github.io/publication/usnccm1/</link>
+      <pubDate>Sun, 26 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://hzGitHub.github.io/publication/usnccm1/</guid>
+      <description>To be continued.</description>
+    </item>
+    
+    <item>
+      <title>GPU-based parallel algorithms for simulation of Electrosurgery procedures in real-time</title>
+      <link>https://hzGitHub.github.io/publication/usnccm2/</link>
+      <pubDate>Sun, 26 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://hzGitHub.github.io/publication/usnccm2/</guid>
+      <description>To be continued.</description>
+    </item>
+    
+    <item>
+      <title>A physics-based algorithm for real-time simulation of electrosurgery procedures in minimally invasive surgery</title>
+      <link>https://hzGitHub.github.io/publication/dual/</link>
+      <pubDate>Thu, 19 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://hzGitHub.github.io/publication/dual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop of Innovation, Design and Emerging Alliances in Surgery: Virtual Surgery</title>
+      <link>https://hzGitHub.github.io/post/ideas/</link>
+      <pubDate>Sat, 23 Nov 2013 12:00:00 +0000</pubDate>
+      
+      <guid>https://hzGitHub.github.io/post/ideas/</guid>
+      <description>To be continued.
+Key features: To be continued.</description>
+    </item>
+    
+    <item>
+      <title>Active vibration suppression based on intelligent control for a long-range ultra-precise positioning system</title>
+      <link>https://hzGitHub.github.io/publication/control/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://hzGitHub.github.io/publication/control/</guid>
+      <description>To be continued.</description>
     </item>
     
   </channel>

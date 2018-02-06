@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
-    <atom:link href="/post/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://hzGitHub.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>SAGES 2017 Annual Meeting</title>
@@ -16,16 +18,9 @@
       <pubDate>Wed, 22 Mar 2017 12:00:00 +0000</pubDate>
       
       <guid>https://hzGitHub.github.io/post/sages1/</guid>
-      <description>&lt;p&gt;Demonstrate understanding of principles of current diversion using Virtual Reality (HTC VIVE).&lt;/p&gt;
-
-&lt;p&gt;Key features:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Define direct coupling and explain how it can occur&lt;/li&gt;
-&lt;li&gt;Define capacitive coupling and explain how it can occur&lt;/li&gt;
-&lt;li&gt;Define insulation failure and explain how it can occur&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Demonstrate understanding of principles of current diversion using Virtual Reality (HTC VIVE).
+Key features:
+ Define direct coupling and explain how it can occur Define capacitive coupling and explain how it can occur Define insulation failure and explain how it can occur  </description>
     </item>
     
     <item>
@@ -34,10 +29,8 @@
       <pubDate>Fri, 16 Sep 2016 12:00:00 +0000</pubDate>
       
       <guid>https://hzGitHub.github.io/post/acs-aei/</guid>
-      <description>&lt;p&gt;Demonstrate all the modules of VEST.&lt;/p&gt;
-
-&lt;p&gt;Key features: To be continued.&lt;/p&gt;
-</description>
+      <description>Demonstrate all the modules of VEST.
+Key features: To be continued.</description>
     </item>
     
     <item>
@@ -46,10 +39,8 @@
       <pubDate>Mon, 23 May 2016 12:00:00 +0000</pubDate>
       
       <guid>https://hzGitHub.github.io/post/kitware/</guid>
-      <description>&lt;p&gt;To be continued.&lt;/p&gt;
-
-&lt;p&gt;Key features: To be continued.&lt;/p&gt;
-</description>
+      <description>To be continued.
+Key features: To be continued.</description>
     </item>
     
     <item>
@@ -58,10 +49,8 @@
       <pubDate>Wed, 16 Mar 2016 12:00:00 +0000</pubDate>
       
       <guid>https://hzGitHub.github.io/post/sages2/</guid>
-      <description>&lt;p&gt;Demonstrate Module 4 of VEST.&lt;/p&gt;
-
-&lt;p&gt;Key features: To be continued.&lt;/p&gt;
-</description>
+      <description>Demonstrate Module 4 of VEST.
+Key features: To be continued.</description>
     </item>
     
     <item>
@@ -70,10 +59,8 @@
       <pubDate>Sat, 23 Nov 2013 12:00:00 +0000</pubDate>
       
       <guid>https://hzGitHub.github.io/post/ideas/</guid>
-      <description>&lt;p&gt;To be continued.&lt;/p&gt;
-
-&lt;p&gt;Key features: To be continued.&lt;/p&gt;
-</description>
+      <description>To be continued.
+Key features: To be continued.</description>
     </item>
     
   </channel>
