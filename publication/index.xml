@@ -11,6 +11,15 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>FUSE certification enhances performance on a virtual computer based simulator for dispersive electrode placement</title>
+      <link>https://hzGitHub.github.io/publication/surgicalendoscopy/</link>
+      <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://hzGitHub.github.io/publication/surgicalendoscopy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A multiphysics model for radiofrequency activation of soft tissues</title>
       <link>https://hzGitHub.github.io/publication/cellular/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
@@ -25,15 +34,6 @@
       <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://hzGitHub.github.io/publication/coupled2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>FUSE certification enhances performance on an immersive virtual reality based simulator for dispersive electrode placement</title>
-      <link>https://hzGitHub.github.io/publication/surgicalendoscopy/</link>
-      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://hzGitHub.github.io/publication/surgicalendoscopy/</guid>
       <description></description>
     </item>
     
