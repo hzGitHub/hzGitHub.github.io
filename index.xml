@@ -53,7 +53,7 @@
       <pubDate>Wed, 22 Mar 2017 12:00:00 +0000</pubDate>
       
       <guid>https://hzGitHub.github.io/post/sages1/</guid>
-      <description>&lt;p&gt;Demonstrate understanding of principles of current diversion using Virtual Reality (HTC VIVE).&lt;/p&gt;
+      <description>&lt;p&gt;Performed face validation of simulator prototype and demonstrated understanding of principles of current diversion using Virtual Reality (HTC VIVE).&lt;/p&gt;
 
 &lt;p&gt;Key features:&lt;/p&gt;
 
@@ -80,9 +80,7 @@
       <pubDate>Fri, 16 Sep 2016 12:00:00 +0000</pubDate>
       
       <guid>https://hzGitHub.github.io/post/acs-aei/</guid>
-      <description>&lt;p&gt;Demonstrate all the modules of VEST.&lt;/p&gt;
-
-&lt;p&gt;Key features: To be continued.&lt;/p&gt;
+      <description>&lt;p&gt;Demonstrated all the modules of VEST. Provided VR simulators session for American college of surgeons- Division of education to enhance patient safety through simulation.&lt;/p&gt;
 </description>
     </item>
     
@@ -92,18 +90,16 @@
       <pubDate>Mon, 23 May 2016 12:00:00 +0000</pubDate>
       
       <guid>https://hzGitHub.github.io/post/kitware/</guid>
-      <description>&lt;p&gt;To be continued.&lt;/p&gt;
-
-&lt;p&gt;Key features: To be continued.&lt;/p&gt;
+      <description>&lt;p&gt;Developed interactive GUI using VTK in the virtual environment and contributed to the Interactive Medical Simulation Toolkit (IMSTK), which is a free &amp;amp; open source software toolkit written in C++ that aids rapid prototyping of interactive multi-modal surgical simulations.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>CURRENT PATHWAY</title>
-      <link>https://hzGitHub.github.io/project/current/</link>
+      <title>1. VEST</title>
+      <link>https://hzGitHub.github.io/project/vest/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://hzGitHub.github.io/project/current/</guid>
+      <guid>https://hzGitHub.github.io/project/vest/</guid>
       <description>
 
 &lt;p&gt;Currents traveling within the human body between the electrodes do not travel as in a wire; instead, as the whole body is a conductor, the currents try to spread as much as possible with the constraints that it has to start and end at the electrodes. This simulator shows the path of the current when using an active electrode and a dispersive electrode. The Path of the current is shown as the active electrode is moved within the body and reacts accordingly when a new dispersive electrode is selected from the multiple options presented. The learning objectives of this simulator is to demonstrate:&lt;/p&gt;
@@ -123,19 +119,40 @@
     </item>
     
     <item>
-      <title>Efficient algorithms for Multi-physics multi-scale modeling</title>
+      <title>2. VBLaST</title>
+      <link>https://hzGitHub.github.io/project/vblast/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://hzGitHub.github.io/project/vblast/</guid>
+      <description>&lt;p&gt;The peg transfer task is the first of the five standard psychomotor tasks in the FLS curricula. It consists of using two graspers (one in each hand), to pick up one ring (block) at a time with the left hand, and transfer it to the other hand and finally place the ring on opposite side peg. A virtual basic laparoscopic skill trainer (VBLaST©) has been developed to provide a tool for computerized objective assessment. VBLaST-PT© allows the user to practice the peg transfer procedure within a virtual environment. The user’s performance is recorded in real time and automatically evaluated in terms of completion time, and errors.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Developed robust ambidextrous manipulation in virtual environment with haptic feedback (similar to robotic grasping and manipulation simulation)&lt;/li&gt;
+&lt;li&gt;Resolved rigid body dynamics, collision detection/response and positioning
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/wHwn8S0vPjA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3. Real-time Computational Algorithms</title>
       <link>https://hzGitHub.github.io/project/coupled/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://hzGitHub.github.io/project/coupled/</guid>
       <description>
 
+&lt;h2 id=&#34;deflation-based-krylov-subspace-method&#34;&gt;Deflation-based Krylov subspace method:&lt;/h2&gt;
+
 &lt;p&gt;Developing an interactive simulation environment for electrosurgery that includes coupled electro-thermo-mechanical multiphysics modeling, continuum level, micromechanical level multilevel modeling and topological change can be challenging. Current best practices for the efficient solution of such problem are based almost exclusively on multigrid methods and preconditioned Krylov subspace methods. Design of efficient application specific monolithic multiphysics multigrid solvers or preconditioners is challenging. Therefore, our aim in this project is to develop efficient finite element solver and block preconditioning technique that can effectively deflate the spectrum of the system matrix leading to exponential convergence of the Arnoldi iterations for the multiphysics, multilevel modeling of electrosurgery without compromising physical fidelity and stability. Research efforts are focused on:&lt;/p&gt;
 
-&lt;h5 id=&#34;deflation-based-block-preconditioner-for-efficient-solution-of-electrosurgical-simulation&#34;&gt;Deflation based block preconditioner for efficient solution of electrosurgical simulation&lt;/h5&gt;
-
-&lt;h5 id=&#34;reduced-order-modeling-of-large-scale-electrosurgical-simulation&#34;&gt;Reduced order modeling of large scale electrosurgical simulation&lt;/h5&gt;
-
+&lt;ol&gt;
+&lt;li&gt;Deflation based block preconditioner for efficient solution of electrosurgical simulation&lt;/li&gt;
+&lt;li&gt;Reduced order modeling of large scale electrosurgical simulation
 
 &lt;figure &gt;
     
@@ -148,42 +165,38 @@
     &lt;/figcaption&gt;
     
 &lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 
-</description>
-    </item>
+&lt;h2 id=&#34;multigrid-method&#34;&gt;Multigrid method:&lt;/h2&gt;
+
+&lt;p&gt;Multilevel cutting is complicated by the need to reflect fine grid topology changes at the coarser grid level which requires modification of the coarse grid operators. We consider a two-level formulation and address the real time issue by developing two separate strategies for updating the map relating the coarse and fine grid operators for structured as well as unstructured meshes.  Considerable speedups of this ultigrid approach compared to a preconditioned conjugate gradient (PCG) solver are observed.
+
+&lt;figure &gt;
     
-    <item>
-      <title>OR fire</title>
-      <link>https://hzGitHub.github.io/project/fire/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://hzGitHub.github.io/project/fire/</guid>
-      <description>&lt;p&gt;This simulator presents a virtual operating room fire scenario and comprises two sections. In the first one, the user is guided in identifying the elements of the operating room that for part of the fire triangle (heat, fuel and oxidizing agent). The second part the user is guided by the simulation to contain a fire, following the established procedures for this emergency situation.
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/FyHlv_Lv1PI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
+        &lt;img src=&#34;https://hzGitHub.github.io/img/mg.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Algorithms for cutting of deformable objects simulated using multilevel methods&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
 &lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>PHYSICS-BASED TISSUE EFFECTS</title>
-      <link>https://hzGitHub.github.io/project/tissue/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://hzGitHub.github.io/project/tissue/</guid>
-      <description>&lt;p&gt;This simulator presents the differences between cutting and coagulating waveforms provided by the electrosurgical generator at different power levels. The simulator enables the user to see the effects on the tissue in real time as they follow the directions that highlight proper techniques and undesired effects.
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/rXHPSQ7n-u0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-&lt;/p&gt;
+&lt;h2 id=&#34;acceleration-using-convolutional-networks&#34;&gt;Acceleration using Convolutional networks&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Investigating the possibility of using convolutional networks to reduce the computational complexity of large scale multiphysics simulation in electrosurgery&lt;/li&gt;
+&lt;li&gt;Performing data-augmentation to the input pressure fields without the need of running exact solvers&lt;/li&gt;
+&lt;li&gt;Creating a set of geometry using level set evolution with randomized velocity for generalization performance with topological change&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
     
     <item>
-      <title>Soft Tissue Thermomechanics</title>
+      <title>4. Soft Tissue Thermomechanics</title>
       <link>https://hzGitHub.github.io/project/characterization/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
@@ -197,7 +210,7 @@
     </item>
     
     <item>
-      <title>Virtual Cutting</title>
+      <title>5. Virtual Cutting</title>
       <link>https://hzGitHub.github.io/project/cutting/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
@@ -228,10 +241,17 @@
       <pubDate>Wed, 16 Mar 2016 12:00:00 +0000</pubDate>
       
       <guid>https://hzGitHub.github.io/post/sages2/</guid>
-      <description>&lt;p&gt;Demonstrate Module 4 of VEST.&lt;/p&gt;
-
-&lt;p&gt;Key features: To be continued.&lt;/p&gt;
+      <description>&lt;p&gt;Performed face validation of simulator prototype and demonstrated the principles of current pathway through virtual human and how the dispersive electrode protects the patient.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>The virtual electrosurgical skill trainer (VEST)-Principles of current pathway</title>
+      <link>https://hzGitHub.github.io/publication/sages2/</link>
+      <pubDate>Wed, 16 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://hzGitHub.github.io/publication/sages2/</guid>
+      <description></description>
     </item>
     
   </channel>

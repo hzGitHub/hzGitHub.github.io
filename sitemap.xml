@@ -104,7 +104,16 @@
     
     <url>
     
-      <loc>https://hzGitHub.github.io/project/current/</loc>
+      <loc>https://hzGitHub.github.io/project/vest/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/project/vblast/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -114,24 +123,6 @@
     <url>
     
       <loc>https://hzGitHub.github.io/project/coupled/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://hzGitHub.github.io/project/fire/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://hzGitHub.github.io/project/tissue/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -300,26 +291,6 @@
     
     <url>
     
-      <loc>https://hzGitHub.github.io/tags/coupled/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://hzGitHub.github.io/tags/current/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://hzGitHub.github.io/tags/cutting/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -330,7 +301,7 @@
     
     <url>
     
-      <loc>https://hzGitHub.github.io/tags/fire/</loc>
+      <loc>https://hzGitHub.github.io/tags/efficient-algorithms/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -410,7 +381,17 @@
     
     <url>
     
-      <loc>https://hzGitHub.github.io/tags/tissue/</loc>
+      <loc>https://hzGitHub.github.io/tags/vblast/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://hzGitHub.github.io/tags/vest/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
