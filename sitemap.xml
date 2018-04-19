@@ -122,7 +122,7 @@
     
     <url>
     
-      <loc>https://hzGitHub.github.io/project/coupled/</loc>
+      <loc>https://hzGitHub.github.io/project/algorithms/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -242,6 +242,16 @@
     
     <url>
     
+      <loc>https://hzGitHub.github.io/tags/algorithms/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://hzGitHub.github.io/tags/boston/</loc>
       <lastmod>2016-09-16T12:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -292,16 +302,6 @@
     <url>
     
       <loc>https://hzGitHub.github.io/tags/cutting/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://hzGitHub.github.io/tags/efficient-algorithms/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -362,7 +362,7 @@
     <url>
     
       <loc>https://hzGitHub.github.io/tags/</loc>
-      <lastmod>2016-09-16T12:00:00+00:00</lastmod>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
