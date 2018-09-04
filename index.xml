@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>An efficient solution approach for multiphysics modeling of electrosurgery</title>
+      <link>https://hzGitHub.github.io/publication/wccm/</link>
+      <pubDate>Sun, 22 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://hzGitHub.github.io/publication/wccm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A multiphysics model for radiofrequency activation of soft hydrated tissues</title>
       <link>https://hzGitHub.github.io/publication/cellular/</link>
       <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
@@ -243,15 +252,6 @@
       <guid>https://hzGitHub.github.io/post/sages2/</guid>
       <description>&lt;p&gt;Performed face validation of simulator prototype and demonstrated the principles of current pathway through virtual human and how the dispersive electrode protects the patient.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>The virtual electrosurgical skill trainer (VEST)-Principles of current pathway</title>
-      <link>https://hzGitHub.github.io/publication/sages2/</link>
-      <pubDate>Wed, 16 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://hzGitHub.github.io/publication/sages2/</guid>
-      <description></description>
     </item>
     
   </channel>
